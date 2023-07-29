@@ -14,7 +14,7 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ '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' }} # ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ 'toasttab/hosseinabbasi-toast' }} # ${{ github.repository_owner }}
+          USERNAME: ${{ 'hosseinabbasi-toast' }} # ${{ github.repository_owner }}
           SETTING_JSON: ./profile-3d-contrib/ever-green-custom.json
       - uses: actions/setup-python@v4
         with:
