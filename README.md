@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://github.com/Drjacky">
+  <img align="center" src="https://github-readme-stats-hosseinabbasi-toasts-projects.vercel.app/api?theme=dracula&include_all_commits=true&count_private=true&username=hosseinabbasi-toast&show_icons=true" />
+</a>
+<a href="https://github.com/Drjacky">
+  <img align="center" src="[https://github-readme-stats-hossein-abbasis-projects.vercel.app](https://github-readme-stats-hosseinabbasi-toasts-projects.vercel.app)/api/top-langs/?username=hosseinabbasi-toast&theme=dracula" />
+</a>
